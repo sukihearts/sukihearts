@@ -1,16 +1,14 @@
-## Hi there 👋
+## ˚₊‧ ꒰ა ✦ ໒꒱ ‧₊˚
 
-<!--
-**kiss-halfmoon/kiss-halfmoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Another indie-game dev out there, somewhere, lost ✦₊˚
 
-Here are some ideas to get you started:
+### Main Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Main Tech Stack](https://skillicons.dev/icons?i=apple,unity,vscode,cs,dotnet)
+
+### Highlights
+
+|Projects|Description|Stars|Forks|
+|:---|:---|:---|:---|
+[Starlight VS Code Theme](https://github.com/kiss-halfmoon/sukihearts-starlight-vs-code-theme) | A dark-mode VS Code theme tailored towards Unity C# development, inspired by Visual Studio Dark 2019 and Anis: Star Starlight. | ![Stars](https://img.shields.io/github/stars/kiss-halfmoon/sukihearts-starlight-vs-code-theme?style=flat-square&labelColor=343b41) | ![Forks](https://img.shields.io/github/forks/kiss-halfmoon/sukihearts-starlight-vs-code-theme?style=flat-square&labelColor=343b41) |
+[Rosewood] | A 2D role-playing game built with Unity. | ![Stars](https://img.shields.io/github/stars/kiss-halfmoon/sukihearts-starlight-vs-code-theme?style=flat-square&labelColor=343b41) | ![Forks](https://img.shields.io/github/forks/kiss-halfmoon/sukihearts-starlight-vs-code-theme?style=flat-square&labelColor=343b41) |
