@@ -1,6 +1,6 @@
 ## ˚₊‧ ꒰ა ✦ ໒꒱ ‧₊˚
 
-Another indie-game dev out there, somewhere, lost ✦₊˚
+Another indie-game dev out there, somewhere ✦₊˚
 
 ### Main Tech Stack
 
